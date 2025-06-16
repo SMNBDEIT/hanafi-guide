@@ -1,6 +1,6 @@
 # Hanafi Guide AI Assistant
 
-🕌 A chatbot that answers Islamic Fiqh questions strictly based on the Hanafi madhab.
+🕌 A chatbot that answers Islamic Fiqh questions strictly based on the Hanafi way.
 
 ## Features
 - Uses OpenAI for responses

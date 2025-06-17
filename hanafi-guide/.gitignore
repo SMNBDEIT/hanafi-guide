@@ -1,0 +1,7 @@
+# .gitignore
+.env
+node_modules/
+
+git add .gitignore
+
+git commit -m "Ignore .env and node_modules"
